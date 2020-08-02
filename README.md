@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?divyanshukrtiwari=your-github-divyanshukrtiwari&color=purple">
-![](https://komarev.com/ghpvc/?divyanshukrtiwari=your-github-divyanshukrtiwari&color=purple)
+![](https://komarev.com/ghpvc/?divyanshukrtiwari=your-github-divyanshukrtiwari)
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Flutter & Blockchain
