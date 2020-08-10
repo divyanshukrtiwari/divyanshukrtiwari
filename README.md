@@ -16,6 +16,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukrtiwari&hide_title=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+### :bar_chart: Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshukrtiwari&&show_icons=true&title_color=ffffff&icon_color=0066D7&text_color=daf7dc&bg_color=151515&hide_title=true">
 
