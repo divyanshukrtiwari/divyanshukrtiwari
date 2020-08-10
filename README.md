@@ -10,5 +10,9 @@
 - 📫 How to reach me: LinkedIn [@divyanshukrtiwari](www.linkedin.com/in/divyanshukrtiwari)
 - 😄 Pronouns: He/His
 
+---
+
+### :bar_chart: Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshukrtiwari&&show_icons=true&title_color=ffffff&icon_color=0066D7&text_color=daf7dc&bg_color=151515">
 
