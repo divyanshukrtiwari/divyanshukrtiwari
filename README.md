@@ -14,7 +14,7 @@
 
 ### :rocket:  Most used languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukrtiwari&layout=compact&show_icons=true&icon_color=0066D7&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukrtiwari&layout=compact&show_icons=true&icon_color=0066D7&text_color=daf7dc&bg_color=151515&hide_title=true">
 
 ---
 ### :bar_chart: Github Stats
