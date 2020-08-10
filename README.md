@@ -13,7 +13,7 @@
 ---
 
 ### :rocket:  Most used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukrtiwari&hide_title=true&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukrtiwari&hide_title=true&layout=compact&theme=dark)]
 
 ---
 ### :bar_chart: Github Stats
