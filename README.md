@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=divyanshukrtiwari">
 -->
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on Flutter & Blockchain
-- 🤔 I’m looking for help with Dapps
+
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with BLoC pattern
 - 💬 Ask me about Flutter
 - 📫 How to reach me: LinkedIn [@divyanshukrtiwari](www.linkedin.com/in/divyanshukrtiwari)
 - 😄 Pronouns: He/His
