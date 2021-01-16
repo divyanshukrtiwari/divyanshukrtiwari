@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with BLoC pattern
 - 💬 Ask me about Flutter
-- 📫 How to reach me: LinkedIn [@divyanshukrtiwari](www.linkedin.com/in/divyanshukrtiwari)
+- 📫 How to reach me: LinkedIn [@divyanshukrtiwari](https://linkedin.com/in/divyanshukrtiwari)
 - 😄 Pronouns: He/His
 
 ---
