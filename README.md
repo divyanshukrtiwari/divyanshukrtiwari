@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with BLoC pattern
 - 💬 Ask me about Flutter
 - 📫 How to reach me: LinkedIn [@divyanshukrtiwari](https://linkedin.com/in/divyanshukrtiwari)
-- 😄 Pronouns: He/His
 
 ---
 
