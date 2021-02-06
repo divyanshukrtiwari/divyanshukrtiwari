@@ -5,7 +5,6 @@
 
 
 - 👯 I’m looking to collaborate on Flutter
-- 💬 Ask me about Flutter
 - 📫 How to reach me: LinkedIn [@divyanshukrtiwari](https://linkedin.com/in/divyanshukrtiwari)
 
 ---
