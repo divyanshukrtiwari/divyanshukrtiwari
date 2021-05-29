@@ -4,8 +4,8 @@
 -->
 
 
-- 👯 I’m looking to collaborate on Flutter
-- 📫 How to reach me: LinkedIn [@divyanshukrtiwari](https://linkedin.com/in/divyanshukrtiwari)
+- :spider_web: I develop mobile applications
+- 📫 Reach me at  [LinkedIn](https://linkedin.com/in/divyanshukrtiwari)
 
 ---
 
